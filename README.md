@@ -25,6 +25,12 @@ Representation of the amount of complaints filed for CFPD from initiattion to pr
   
 Looking at the complaints in more detail: 
   I am going to try and recreate the map that was published on the CFPB website displaying the complaints per state.  
+  
+Graphic #1 Basic Visualization of the top 20 complaint garnering companies --all years--all categories
+
+	* Exported this data into an excel: [https://docs.google.com/spreadsheets/d/1qXBvxcShVYt7H8y8d9RBGEzLpLakjvMbNU3omRo7Yuw/edit?usp=sharing ]
+	* Created a graph via DataWrapper : [
+
 
 ### Notes - Things to consider when examping this data
 
